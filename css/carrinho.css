@@ -1,0 +1,91 @@
+.produtoscarrinho{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.cartproducts{
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+}
+
+#tabelaprodutos{
+    color: aliceblue;
+}
+
+#tabelaprodutos td{
+    width: 600px;
+    text-align: center;
+}
+
+#tabelaprodutos td img{
+    max-width: 300px;
+    max-height: 250px;
+}
+
+.botoes{
+    margin-bottom: 100px;
+    padding-bottom: 74px;
+}
+
+#limparcarrinho{
+    position: absolute;
+    padding: 5px;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    border-radius: 15px;
+    background: #ff4655;
+    border: none;
+    color: white;
+    align-items: center;
+    text-align: center;
+    height: 30px;
+    width: 20%;
+    cursor: pointer;
+}
+
+#finalizarcompra{
+    margin-left: 64%;
+    position: absolute;
+    padding: 5px;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    border-radius: 15px;
+    background: #ff4655;
+    border: none;
+    color: white;
+    align-items: center;
+    text-align: center;
+    height: 30px;
+    width: 20%;
+    cursor: pointer;
+}
+
+.textzin{
+    padding-top: 100px;
+    text-align: center;
+}
+
+.textzin h5{
+    color: rgb(255, 86, 86);
+    background-color: #270003;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 5px;
+}
+
+#subtotal{
+    width: 120px;
+    margin-left: auto;
+}
+
+#subtotal p{
+    background-color: #62bbd2;
+    border-radius: 10px; 
+    padding-left: 10px;
+}
